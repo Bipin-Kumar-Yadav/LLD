@@ -17,7 +17,7 @@ abstract class Car{
         return brand;
     }
     public String getModel(){
-         return model;
+        return model;
     }
     public void setCurrentSpeed(int speed){
         this.currentSpeed=speed;
