@@ -87,3 +87,10 @@ public class FD2_FactoryMethodDesginPattern {
         }
     }
 }
+
+/*
+ It is a proper design pattern as it follows the OCP (Open Closed Principle).
+    Here we have multiple factories (SinghBurger and KingBurger) that can create different types of burgers.
+    The client code (main method) is decoupled from the concrete burger classes and only interacts with the factory interface.
+    This allows for easy extension of new burger types or factories without modifying existing code.
+ */

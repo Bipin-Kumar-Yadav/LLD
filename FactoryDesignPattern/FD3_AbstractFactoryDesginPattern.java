@@ -148,3 +148,11 @@ public class FD3_AbstractFactoryDesginPattern {
     }
 }
 
+
+/*
+ * Here, the Abstract Factory pattern is properly implemented.
+ * The MealFactory interface defines methods for creating related products (Burger and GarlicBread).
+ * The SinghBurger and KingBurger classes are concrete factories that implement the MealFactory interface to create specific types of burgers and garlic breads.
+ * The client code (main method) is decoupled from the concrete product classes and only interacts with the abstract factory interface.
+ * This allows for easy extension of new product families (e.g., adding new types of burgers or garlic breads) without modifying existing
+ */
