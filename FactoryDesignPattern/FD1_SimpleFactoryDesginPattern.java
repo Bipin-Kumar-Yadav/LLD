@@ -55,3 +55,7 @@ public class FD1_SimpleFactoryDesginPattern {
     }
 }
 
+/*
+ Here we don't want to expose the creation logic of the burgers to the client.
+    The client simply calls the factory method with the type of burger it wants,
+ */
