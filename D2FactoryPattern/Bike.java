@@ -1,4 +1,4 @@
-package FactoryPattern;
+package D2FactoryPattern;
 
 public class Bike implements Transport{
     @Override

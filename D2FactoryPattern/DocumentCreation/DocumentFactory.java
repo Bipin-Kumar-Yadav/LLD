@@ -1,4 +1,4 @@
-package FactoryPattern.DocumentCreation;
+package D2FactoryPattern.DocumentCreation;
 
 public class DocumentFactory {
     public static Document createDocument(String type){

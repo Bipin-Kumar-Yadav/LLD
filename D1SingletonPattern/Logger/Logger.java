@@ -1,4 +1,4 @@
-package SingletonPattern.Logger;
+package D1SingletonPattern.Logger;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

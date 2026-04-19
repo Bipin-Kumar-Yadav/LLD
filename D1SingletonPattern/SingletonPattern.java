@@ -1,4 +1,4 @@
-package SingletonPattern;
+package D1SingletonPattern;
 
 public class SingletonPattern {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package FactoryPattern.DocumentCreation;
+package D2FactoryPattern.DocumentCreation;
 
 public class HTMLDocument implements Document {
     @Override

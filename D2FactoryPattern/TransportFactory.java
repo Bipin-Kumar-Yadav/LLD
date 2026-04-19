@@ -1,4 +1,4 @@
-package FactoryPattern;
+package D2FactoryPattern;
 
 public class TransportFactory {
     public static Transport createTransport(String type){

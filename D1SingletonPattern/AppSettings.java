@@ -1,4 +1,4 @@
-package SingletonPattern;
+package D1SingletonPattern;
 
 public class AppSettings {
     // Step 1: Create a private static variable to hold the single instance of the class
