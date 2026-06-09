@@ -16,12 +16,12 @@ java -cp out FacadeAndFlyExercise.Gateway
 Expected output (approx):
 ```
 Game Started!!!
-Player spawned Bipin
-Player spawned Shradha
-Player spawned Vishnu
-Player Bipin fired ak47
-Player Shradha fired m416
-Player Vishnu fired m416
+Player spawned Player1
+Player spawned Player2
+Player spawned Player3
+Player Player1 fired ak47
+Player Player2 fired m416
+Player Player3 fired m416
 Game ended
 All player removed
 ```
